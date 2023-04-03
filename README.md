@@ -34,7 +34,7 @@ npm run dev
 npm run build
 ```
 
-### lint
+### lint1
 
 ```
 npm run lint
